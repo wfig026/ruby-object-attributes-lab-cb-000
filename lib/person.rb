@@ -1,7 +1,7 @@
 class Person
   def instantiate
-    @names
-    @jobs
+    @name
+    @job
   end
   def name=(persons_name)
     @names = persons_name
